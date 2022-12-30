@@ -1,1 +1,1 @@
-# BTC-Data-Analysis-binanceAPI
+# BTC-Data-Analysis-cryptocompare-api
